@@ -72,7 +72,7 @@ span {
 .h-right a:first-child {
   color: var(--text-color);
   font-size: var(--p-font);
-  margin-right: 20px;
+  margin-right: 12px;
 }
 .h-right a {
   vertical-align: middle;
