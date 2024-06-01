@@ -1,0 +1,2 @@
+![Uploading 77a19940-cf29-4b5f-ba7b-86f6fb37e58a.png…]()
+Today I work at this amazing Tour agency landing page design. Completing this project I recovered my HTML CSS knowledge and used some beautiful  CSS properties like ( filter, blur grid min-max method autofit. I applied some animation tricks using the transition and translate x, y method. And if we talk about the responsiveness of this project this is very easy to do using media queries for different screens. check it out  
